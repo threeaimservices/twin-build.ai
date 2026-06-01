@@ -2,7 +2,7 @@
 
 Digital Twins for the built Environment.
 
-We offer strategic and implementation services for asset owners/operators who want to build their own Digital Twins of their buildings or infrastrcuture assets without replacing existing systems.
+We offer strategic and implementation services for asset owners/operators who want to build their own Digital Twins of their buildings or infrastructure assets without replacing existing systems.
 
 The service is based on a platform-independent data catalog from our AI partners Xerini, which connects and aligns data from engineering and operational platforms. The catalog maintains data lineage, tracks data quality, and harnesses AI to do the hard stuff like generating and evolving target data models, setting up and maintaining connections, and orchestrating data pipelines to convert siloed data of varied quality so it becomes meaningful, trusted, and reusable.
 
