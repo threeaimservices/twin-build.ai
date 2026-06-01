@@ -6,7 +6,7 @@ We offer strategic and implementation services for asset owners/operators who wa
 
 The service is based on a platform-independent data catalog from our AI partners Xerini, which connects and aligns data from engineering and operational platforms. The catalog maintains data lineage, tracks data quality, and harnesses AI to do the hard stuff like generating and evolving target data models, setting up and maintaining connections, and orchestrating data pipelines to convert siloed data of varied quality so it becomes meaningful, trusted, and reusable.
 
-The service is an independent layer and owned by none of the platforms it connects to - as it should be.
+The service is an independent layer and owned by none of the engineering or asset management platforms it connects to.
 
 The services include:
 
