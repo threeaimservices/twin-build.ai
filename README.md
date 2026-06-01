@@ -1,4 +1,4 @@
-# twin-build.ai
+# Twin-Build.AI
 
 Digital Twins for the built Environment.
 
